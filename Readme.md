@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DefcValentino
+- 👋 Hi, I’m Valentine
 - 🌍 I’m based in Nigeria
-- 🌱 I’m learning frontend languages and frameworks
-- 🤝 I’m currently open to collaborate on any project
-- 📫 You can reach me on ebubeokonkwo690@gmail.com
+- 🌱 I’m curently learning frontend languages and building intuitive projects with my knowlegde .
+- 🤝 I’m currently open to collaborate and work on any project
+- 📫 You can reach me on valentineokonkwo69@gmail.com
 - ⚡ Building and making impact with my skills is my source of joy.
 
 <!---
